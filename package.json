@@ -1,0 +1,23 @@
+{
+  "name": "automa-javascript-concat",
+  "version": "0.0.1",
+  "description": "Concatenate javascript files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:unclepotap/automa-javascript-concat.git"
+  },
+  "author": "Ivan Potapov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unclepotap/automa-javascript-concat/issues"
+  },
+  "homepage": "https://github.com/unclepotap/automa-javascript-concat",
+  "dependencies": {
+    "node-minify": "^0.12.1",
+    "vow": "^0.4.7"
+  }
+}
